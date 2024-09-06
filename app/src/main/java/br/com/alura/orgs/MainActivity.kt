@@ -11,12 +11,9 @@ class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Toast.makeText(this, "Bem vindo(a) ao Orgs! Marcílio", Toast.LENGTH_SHORT).show()
-        val view_text = TextView(this)
         val view = View(this)
-        view_text.setText("Marcílio Zanatta Bezerra da Silva")
 
         setContentView(view)
-        setContentView(view_text)
         setContentView(R.layout.activity_main)
     }
 }
