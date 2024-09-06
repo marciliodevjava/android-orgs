@@ -17,5 +17,6 @@ class MainActivity : Activity() {
 
         setContentView(view)
         setContentView(view_text)
+        setContentView(R.layout.activity_main)
     }
 }
