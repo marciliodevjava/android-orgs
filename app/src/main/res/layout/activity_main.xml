@@ -9,7 +9,7 @@
         android:id="@+id/none"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="84dp"
+        android:layout_marginTop="74dp"
         android:layout_marginEnd="160dp"
         android:text="Cestas de frutas"
         app:layout_constraintEnd_toEndOf="parent"
