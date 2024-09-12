@@ -1,4 +1,4 @@
-package br.com.alura.orgs
+package br.com.alura.orgs.ui.activity
 
 import android.app.Activity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.view.View
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
+import br.com.alura.orgs.R
 import br.com.alura.orgs.ui.recyclerview.adapter.ListaProdutosAdapter
 import java.util.Arrays
 
